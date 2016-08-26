@@ -1,3 +1,4 @@
+'use strict';
 /**
  * Paypal classic API with NVP formatting
  * @ndaidong
